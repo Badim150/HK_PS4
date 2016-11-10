@@ -56,6 +56,4 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Content/InfinityBladeEffects
-Content/InfinityBladeWeapons
 Config/DefaultEditor.ini
